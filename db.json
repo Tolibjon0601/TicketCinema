@@ -1,0 +1,177 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$7deiVarDyVo4uR2RLafrKuk2.r2GJtve0qPqYTRND9cvjNF0D2vsm",
+      "name": "Abdurahmon",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-05-30/fOjOeYfd8KK5xlY4vj5fMnvGoH71J54CSQDKzaECBG8ZnEdpzdtXcvS4oUWi.JPG",
+      "name": "Televizor",
+      "id": 9
+    },
+    {
+      "img": "https://images.uzum.uz/cle9es56sfhvbd1idab0/original.jpg",
+      "name": "Noutbuklar ",
+      "id": 10
+    },
+    {
+      "img": "https://images.uzum.uz/cje6rgjk9fqfbctiakog/original.jpg",
+      "name": "stikerlar",
+      "id": 11
+    },
+    {
+      "img": "https://images.uzum.uz/cnulv8v2u18gghcl2vhg/original.jpg",
+      "name": "Telefonlar",
+      "id": 12
+    },
+    {
+      "img": "https://images.uzum.uz/cq99oqsqvss6ad8i0mmg/original.jpg",
+      "name": "Erkaklar uchun Kirasofka",
+      "id": 13
+    },
+    {
+      "img": "https://images.uzum.uz/cqejm1sqvss6ad8j2tjg/original.jpg",
+      "name": "Aqli soatlar",
+      "id": 14
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "9",
+      "img": "https://olcha.uz/image/266x266/products/cdn_1/supplier/stores/1/2024-07-08/UCbgEXvMiOND0MIgefaY02TbUasXpsBcx1hEYMj4zDWkdHM8WPUo0PBoz78Z.jpg",
+      "name": "Телевизор LG 86UT81006LA UHD AI UT81 4K Smart TV 2024 86\"",
+      "price": 500,
+      "id": 1
+    },
+    {
+      "categoryId": "9",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-06-11/ctcIWSvr4ewVVINYDeixtNyQNIec2Wix9o4damnVrUmVWajcjONF8qfKiJRb.JPG",
+      "name": "Телевизор Samsung QE55Q60BAUCCE Smart TV UHD 55\"",
+      "price": 1200,
+      "id": 2
+    },
+    {
+      "categoryId": "9",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-06-04/iz3fWKhboqnw3y9pzzeLJ3AZMm5Dlwq3ipwaf0gFAbggCuHHgHZKsHIyOSpp.JPG",
+      "name": "Телевизор LG 55UQ76003LD UHD Smart TV 55'",
+      "price": 444,
+      "id": 3
+    },
+    {
+      "categoryId": "10",
+      "img": "https://olcha.uz/image/700x700/products/T8wrPFvTfxnEaw0w47kS4HpsuvjtjdwZYsr2cbUtIyYbo6IhOvVN7XCjXbwD.jpg",
+      "name": "Ноутбук Lenovo AIO 27ITL6 i3-1115G4 8/256 GB 27''",
+      "price": 600,
+      "id": 4
+    },
+    {
+      "categoryId": "10",
+      "img": "https://olcha.uz/image/700x700/products/2021-01-28/apple-macbook-air-13-m1-8gb256gb-2020-gold-20982-0.jpeg",
+      "name": "Apple MacBook Air 13 М1 8GB/256GB 2020 Gold",
+      "price": 1000,
+      "id": 5
+    },
+    {
+      "categoryId": "10",
+      "img": "https://olcha.uz/image/700x700/products/2022-07-26/noutbuk-lenovo-ideapad-3-15igl05-celeron-n4020-41tb-hdd-156-81wq0024ak-86353-0.jpeg",
+      "name": "Ноутбук Lenovo IdeaPad 3 15IGL05 Celeron N4020 4/1TB HDD 15.6\" (81WQ0024AK)",
+      "price": 200,
+      "id": 6
+    },
+    {
+      "categoryId": "11",
+      "img": "https://images.uzum.uz/cii4i6540v9pplt58msg/original.jpg",
+      "name": "O'zi yopishqoq stikerlari to'plami \"Hayot\", 58 * 80 mm, 30 dona",
+      "price": 3,
+      "id": 7
+    },
+    {
+      "categoryId": "11",
+      "img": "https://images.uzum.uz/clm8u456sfhsc0un41r0/original.jpg",
+      "name": "Stich stikerlari",
+      "price": 1,
+      "id": 8
+    },
+    {
+      "categoryId": "11",
+      "img": "https://images.uzum.uz/co5ap1n2u18gghcmkq2g/original.jpg",
+      "name": "Kuromi stiker, Sanrio nakleykalar, 9 dona",
+      "price": 2,
+      "id": 9
+    },
+    {
+      "categoryId": "11",
+      "img": "https://images.uzum.uz/cq7d83ssslotj05k2n2g/original.jpg",
+      "name": "Kuromi stikerlar, nakleykalar",
+      "price": 4,
+      "id": 10
+    },
+    {
+      "categoryId": "12",
+      "img": "https://images.uzum.uz/cnteu472u18gghckqs30/original.jpg",
+      "name": "Smartfon Samsung Galaxy A55 (Official) 8/128, 8/256 GB",
+      "price": 344,
+      "id": 11
+    },
+    {
+      "categoryId": "12",
+      "img": "https://images.uzum.uz/cp9f9u7j2e4hhrn2tpm0/original.jpg",
+      "name": "Smartfon Apple iPhone 13 5G, OLED 60 Gts, IP68",
+      "price": 800,
+      "id": 12
+    },
+    {
+      "categoryId": "12",
+      "img": "https://images.uzum.uz/cqh8cm7frr8a72r5potg/original.jpg",
+      "name": "Smartfon Redmi A3 4/128",
+      "price": 100,
+      "id": 13
+    },
+    {
+      "categoryId": "13",
+      "img": "https://images.uzum.uz/cpr830gsarnfdo98tf9g/original.jpg",
+      "name": "Erkaklar uchun krossovkalar, yoz-bahor-kuz, 2 turdagi, 39-44 o'lchamda",
+      "price": 90,
+      "id": 14
+    },
+    {
+      "categoryId": "13",
+      "img": "https://images.uzum.uz/cpgob2u0t1llbtq5n2g0/original.jpg",
+      "name": "Erkaklar uchun krossovka, yoz-bahor-kuz, 2 turdagi, 39-44 o'lchamda",
+      "price": 70,
+      "id": 15
+    },
+    {
+      "categoryId": "13",
+      "img": "https://images.uzum.uz/cqd3nkcsslotj05l5g9g/original.jpg",
+      "name": "Krossovkalar erkaklar uchun Campus, Samba, demisezon, 40-44 o'lchamlar",
+      "price": 55,
+      "id": 16
+    },
+    {
+      "categoryId": "14",
+      "img": "https://images.uzum.uz/cqs8tossslomdvnkgs90/original.jpg",
+      "name": "Aqlli soatlar Smart Watch 8, Android va iOS uchun, 45 mm",
+      "price": 900,
+      "id": 17
+    },
+    {
+      "categoryId": "14",
+      "img": "https://images.uzum.uz/cofs3ma1om4pepe0bt8g/original.jpg",
+      "name": "Aqlli soat Smart Watch X8 pro, 45 mm, sensorli, Android va iOS uchun",
+      "price": 100,
+      "id": 18
+    },
+    {
+      "categoryId": "14",
+      "img": "https://images.uzum.uz/cnm5ucg4idugcqegr8h0/original.jpg",
+      "name": "Aqlli soat Mibro T1 Full HD 1.3 Amoled-displey Bluetooth 5.0",
+      "price": 145,
+      "id": 19
+    }
+  ]
+}
